@@ -1,4 +1,4 @@
-# Income Prediction: Random Forest vs SVM vs KNN vs Logistic Regression
+# Income Prediction: Random Forest vs SVM vs KNN vs Logistic Regression vs Naive Bayes vs Decision Tree
 
 A machine learning project that predicts whether a person earns more or less than $50K per year using the UCI Adult (Census Income) dataset. Four classification algorithms are implemented and their performance is compared.
 
