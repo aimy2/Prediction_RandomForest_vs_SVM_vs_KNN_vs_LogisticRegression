@@ -18,6 +18,7 @@ This project benchmarks four supervised learning algorithms on the classic incom
 ## Dataset
 
 The project uses the **UCI Adult / Census Income** dataset, which contains the following features:
+[DatasetLink:](https://www.kaggle.com/datasets/wenruliu/adult-income-dataset)
 
 | Feature | Description |
 |---|---|
@@ -106,15 +107,10 @@ A bar chart is generated to visualize the accuracy of all four models side-by-si
 ```
 Prediction_RandomForest_vs_SVM_vs_KNN_vs_LogisticRegression/
 │
-├── data/
+├── Datasets/
 │   └── adult.csv            # UCI Adult / Census Income dataset
 │
-├── main.py                  # Entry point — trains and evaluates all models
-├── random_forest.py         # Random Forest classifier
-├── svm.py                   # Support Vector Machine classifier
-├── knn.py                   # K-Nearest Neighbors classifier
-├── logistic_regression.py   # Logistic Regression classifier
-├── requirements.txt         # Python dependencies
+├── allmodelscomparison.ipynb   # Entry point — trains and evaluates all models
 └── README.md                # Project documentation
 ```
 
