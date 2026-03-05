@@ -18,7 +18,7 @@ This project benchmarks four supervised learning algorithms on the classic incom
 ## Dataset
 
 The project uses the **UCI Adult / Census Income** dataset, which contains the following features:
-[DatasetLink:](https://www.kaggle.com/datasets/wenruliu/adult-income-dataset)
+[https://www.kaggle.com/datasets/wenruliu/adult-income-dataset](https://www.kaggle.com/datasets/wenruliu/adult-income-dataset)
 
 | Feature | Description |
 |---|---|
